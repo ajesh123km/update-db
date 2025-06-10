@@ -9,8 +9,7 @@ from [Browserslist](https://github.com/browserslist/browserslist/) config.
 Some queries like `last 2 versions` or `>1%` depend on actual data
 from `caniuse-lite`.
 
-```sh
-npx update-browserslist-db@latest
+```
 ```
 
 <a href="https://evilmartians.com/?utm_source=update-browserslist-db">
